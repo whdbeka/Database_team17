@@ -15,6 +15,9 @@ String jdbcDriver = "jdbc:mysql://localhost:3306/mysql?serverTimezone=UTC";
 String dbUser = "root";
 String dbPass = "0000";
 
+String aa ="aa";
+//++
+
 conn = DriverManager.getConnection(jdbcDriver, dbUser, dbPass);
 
 %>
